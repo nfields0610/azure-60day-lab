@@ -69,4 +69,4 @@ This demonstrates secure credential management and identity-based access control
   # Retrieve the secret
   $secret = Get-AzKeyVaultSecret -VaultName "labnn-keyvault01" -Name "SQLPassword"
   $secret.SecretValueText
-  ![image](https://github.com/user-attachments/assets/c2dd3464-c134-4d3c-aaeb-31832c8dbb03)
+  
